@@ -1,4 +1,5 @@
 # Tebex Headless Store (Next.js + shadcn/ui)
+## Live Demo: https://tebex-headless-template.vercel.app/
 
 Custom ecommerce storefront for Tebex using:
 - Next.js App Router
